@@ -369,6 +369,8 @@ async def send_song(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await query.message.reply_audio(
         audio=song["file_id"],
+        title=name,
+        performer="",
         caption=f"🎵 *{name}*\n\n{song['lyrics']}",
         parse_mode="Markdown"
     )
