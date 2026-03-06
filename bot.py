@@ -374,6 +374,7 @@ async def send_song(update: Update, context: ContextTypes.DEFAULT_TYPE):
         caption=f"🎵 *{name}*\n\n{song['lyrics']}",
         parse_mode="Markdown"
     )
+    
 
 
 def main():
