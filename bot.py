@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
+
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN", "8706601049:AAGx0DYS2tz1KguqJn2U3gG6dPNS2h4mK98")
 
