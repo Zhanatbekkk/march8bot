@@ -236,10 +236,12 @@ SONGS = {
 Na-na, la-la-la-la-la, na-na-na-na-na, la-la
 Na-na, la-la-la-la-la, na-na-na-na-na, la-la"""
     },
-    "Унайды мага": {
+    "Іңкәр": {
         "file_id": "CQACAgIAAxkDAANBaaqXA_vdOSAdvv9iBCo8WpnQxc8AAn6LAALmg1lJwVQRBPBc6hA6BA",
         "lyrics": """Куплет:
-Уақыт өтіп жүрді
+Сегізінші наурыз күні 
+Алдымызда кеп жатқан
+Уакыт өтіп  жүрді
 Үндемедім еш қашан
 
 Іңкәр саған айтамын
@@ -374,7 +376,7 @@ async def send_song(update: Update, context: ContextTypes.DEFAULT_TYPE):
         caption=f"🎵 *{name}*\n\n{song['lyrics']}",
         parse_mode="Markdown"
     )
-    
+
 
 
 def main():
