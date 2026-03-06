@@ -238,7 +238,7 @@ Na-na, la-la-la-la-la, na-na-na-na-na, la-la
 Na-na, la-la-la-la-la, na-na-na-na-na, la-la"""
     },
     "Іңкәр": {
-        "file_id": "CQACAgIAAxkDAANBaaqXA_vdOSAdvv9iBCo8WpnQxc8AAn6LAALmg1lJwVQRBPBc6hA6BA",
+        "file_id": "CQACAgIAAxkDAANRaaqawRZysDShKvU1TtE9vtL28FIAAraLAALmg1lJ_GmJWquFZus6BA",
         "lyrics": """Куплет:
 Сегізінші наурыз күні 
 Алдымызда кеп жатқан
